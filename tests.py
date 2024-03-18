@@ -63,6 +63,8 @@ Test search by title a page that was created with same title 2 times
     - Verify that search by title is not broken if it is possible to create 2 pages with same title
 Test images linked to the page
     - Verify the images that are linked to the pages like thumbnails
+
+This tests is the usual things that I would try to test in an application, if there are other possible options they can be added, but this is a base of what can be tested
 """
 
 
